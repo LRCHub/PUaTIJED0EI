@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "愛してた",
+  "base_artist": "ナオト・インティライミ",
+  "createdAt": "2026-02-14T14:42:57.644882Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛してる 愛してた",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/01_愛してる_愛してた_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛してた",
+      "artist": "Kohmi Hirose",
+      "has_synced": false,
+      "path": "select/02_愛してた_Kohmi_Hirose.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛してた",
+      "artist": "Naoto Inti Raymi",
+      "has_synced": false,
+      "path": "select/03_愛してた_Naoto_Inti_Raymi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛してた(feat.れん)",
+      "artist": "Naoto Inti Raymi",
+      "has_synced": true,
+      "path": "select/04_愛してた(feat.れん)_Naoto_Inti_Raymi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛してる 愛してた",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/05_愛してる_愛してた_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Aishiteru Aishiteta (愛してる 愛してた)",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/06_Aishiteru_Aishiteta_(愛してる_愛してた)_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛してた",
+      "artist": "奥華子 (Hanako Oku)",
+      "has_synced": false,
+      "path": "select/07_愛してた_奥華子_(Hanako_Oku).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛してた",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_01_愛してた_ナオト・インティライミ.txt"
+    }
+  ]
+}
